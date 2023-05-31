@@ -825,10 +825,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^16.11.26":
-  version: 16.18.34
-  resolution: "@types/node@npm:16.18.34"
-  checksum: 35c0ffe09687578d002ceb7e706d0ba450546aeb3d2716f28691f2af0063bd274dbde0f741d087ea217f2a8db413eb700d22dfb4f08a67986ff801423bd7be8d
+"@types/node@npm:^18.11.18":
+  version: 18.16.16
+  resolution: "@types/node@npm:18.16.16"
+  checksum: 0efad726dd1e0bef71c392c708fc5d78c5b39c46b0ac5186fee74de4ccb1b2e847b3fa468da67d62812f56569da721b15bf31bdc795e6c69b56c73a45079ed2d
   languageName: node
   linkType: hard
 
@@ -2195,16 +2195,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron@npm:^22.3.4":
-  version: 22.3.11
-  resolution: "electron@npm:22.3.11"
+"electron@npm:^25.0.0":
+  version: 25.0.0
+  resolution: "electron@npm:25.0.0"
   dependencies:
     "@electron/get": ^2.0.0
-    "@types/node": ^16.11.26
+    "@types/node": ^18.11.18
     extract-zip: ^2.0.1
   bin:
     electron: cli.js
-  checksum: 2d9a31111c3ab4f1935ebfb51836a70a0704d2253444b9e0a0617684e8db3a71fdda5b6a0cfdde2aa015632497b3958143b2fe3649d1f29775ffcb12096eccef
+  checksum: e8c0a5d7473507c4e53a2f852405539892fb76e2ebc6b2de9fb0819e77295709be2ef45cc31e520761d7a72c4e1002f23c0d241cc060aacdd51ce64b7d34475d
   languageName: node
   linkType: hard
 
@@ -4362,7 +4362,7 @@ __metadata:
     "@types/react-dom": 18.0.11
     "@vitejs/plugin-react": ^3.1.0
     clsx: ^1.2.1
-    electron: ^22.3.4
+    electron: ^25.0.0
     electron-builder: ^23.6.0
     electron-updater: ^5.3.0
     electron-vite: ^1.0.21
