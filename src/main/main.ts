@@ -56,13 +56,13 @@ export default class Main<API extends object> {
         optimizer.watchWindowShortcuts(window);
       });
 
-      this._window = this._createWindow();
+      this._window = this._createWindow(this._options?.browser);
 
       app.on("activate", () => {
         // On macOS it's common to re-create a window in the app when the
         // dock icon is clicked and there are no other windows open.
         if (BrowserWindow.getAllWindows().length === 0)
-          this._window = this._createWindow();
+          this._window = this._createWindow(this._options?.browser);
       });
 
       //provide api
