@@ -11,3 +11,6 @@ out
 !.yarn/sdks
 !.yarn/versions
 .pnp.*
+
+#env
+.env.local
