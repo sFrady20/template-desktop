@@ -2,7 +2,7 @@
   margin: 0;
 }
 
-body {
+#root {
   min-height: 100svh;
   display: flex;
   flex-direction: column;

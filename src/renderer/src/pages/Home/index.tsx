@@ -1,3 +1,3 @@
 export default function HomePage() {
-  return <>Default Template</>;
+  return <>Desktop template</>;
 }

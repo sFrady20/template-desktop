@@ -1,6 +1,6 @@
 import { contextBridge, ipcRenderer } from "electron";
 import { electronAPI } from "@electron-toolkit/preload";
-import type { MainAPI } from "../main";
+import type { MainAPI } from "@main/index";
 
 // Custom APIs for renderer
 const mainProxy = {
