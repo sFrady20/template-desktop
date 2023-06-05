@@ -316,12 +316,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@electron-toolkit/preload@npm:^1.0.3":
-  version: 1.0.3
-  resolution: "@electron-toolkit/preload@npm:1.0.3"
+"@electron-toolkit/preload@npm:^2.0.0":
+  version: 2.0.0
+  resolution: "@electron-toolkit/preload@npm:2.0.0"
   peerDependencies:
     electron: ">=13.0.0"
-  checksum: 2ed30ff5bc3c7ddfa330308e09aa77678ebcd36382ad07aeff9110944930f2e8b3edfa0a327dd539dbd5b7133ae368ca57ff8a68471fafb473bd2e6cad977d25
+  checksum: 3f2f0495616625ea9d831ffb6a731645203eda7f73994ab7f7c5390d85bedde55f72ce4ae67ea9098f14ede3b59afb0b6904402e92ce52d6f2e104d4b519bf15
   languageName: node
   linkType: hard
 
@@ -4356,7 +4356,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "template-desktop@workspace:."
   dependencies:
-    "@electron-toolkit/preload": ^1.0.3
+    "@electron-toolkit/preload": ^2.0.0
     "@electron-toolkit/tsconfig": ^1.0.1
     "@electron-toolkit/utils": ^1.0.2
     "@electron/notarize": ^1.2.3
