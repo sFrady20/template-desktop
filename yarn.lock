@@ -1090,10 +1090,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@unocss/reset@npm:0.52.7, @unocss/reset@npm:^0.52.7":
+"@unocss/reset@npm:0.52.7":
   version: 0.52.7
   resolution: "@unocss/reset@npm:0.52.7"
   checksum: 275beb3db62b1e1de80cb59b45b3915e8de5910feb9f4fba92ba83d40a26e6725a0a39ea9e2b54a423e78d274ab579f17076819c4f6a2cf2d6c36f15b915e158
+  languageName: node
+  linkType: hard
+
+"@unocss/reset@npm:^0.53.0":
+  version: 0.53.0
+  resolution: "@unocss/reset@npm:0.53.0"
+  checksum: bf69049ef736a7dd0a97b786397d156081260795e6df794f1b2005aa25a66fc4eab2c1564ea24c3e2c30cf7ffe940acd8f412590851e4179b0691006f481d39e
   languageName: node
   linkType: hard
 
@@ -4363,7 +4370,7 @@ __metadata:
     "@types/node": ^20.2.5
     "@types/react": ^18.2.7
     "@types/react-dom": ^18.2.4
-    "@unocss/reset": ^0.52.7
+    "@unocss/reset": ^0.53.0
     "@vitejs/plugin-react": ^4.0.0
     clsx: ^1.2.1
     electron: ^25.0.1
