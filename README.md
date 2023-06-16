@@ -1,1 +1,3 @@
-# sfrady20/template-desktop
+## @sfrady20/template-desktop
+
+`yarn create another-one -t template-desktop`
