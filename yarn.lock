@@ -2426,9 +2426,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron-vite@npm:^1.0.25":
-  version: 1.0.25
-  resolution: "electron-vite@npm:1.0.25"
+"electron-vite@npm:^1.0.26":
+  version: 1.0.26
+  resolution: "electron-vite@npm:1.0.26"
   dependencies:
     "@babel/core": ^7.22.8
     "@babel/plugin-transform-arrow-functions": ^7.22.5
@@ -2444,7 +2444,7 @@ __metadata:
       optional: true
   bin:
     electron-vite: bin/electron-vite.js
-  checksum: 5a6bccdc0ed1c2915220928ec4c0ec7deffb6dbe3eef49dcc4719dad87937bfc4d009c93ea10633e04610be3c142d1ccf85971936537200fa5da3518a75bfc27
+  checksum: 6e3ca8a8aa3165ae42f0021fbfa966f90357f4ea902bd0f09709279d7425f1b5c05da1bad859e41018849c61b203588d55c4623d48eb38b64565562305e000ca
   languageName: node
   linkType: hard
 
@@ -4624,7 +4624,7 @@ __metadata:
     electron: ^25.3.1
     electron-builder: ^24.6.3
     electron-updater: ^6.1.1
-    electron-vite: ^1.0.25
+    electron-vite: ^1.0.26
     prettier: ^3.0.0
     react: ^18.2.0
     react-dom: ^18.2.0
